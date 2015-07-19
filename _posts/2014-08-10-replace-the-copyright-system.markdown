@@ -1,0 +1,33 @@
+---
+author: tjones
+comments: false
+date: 2014-08-10 08:09:44+00:00
+layout: post
+slug: replace-the-copyright-system
+title: Replace the Copyright System
+wordpress_id: 1193
+categories:
+- old
+tags:
+- Old
+---
+
+<blockquote>If nature has made any one thing less susceptible than all others of exclusive property, it is the action of the thinking power called an idea, which an individual may exclusively possess as long as he keeps it to himself; but the moment it is divulged, it forces itself into the possession of every one, and the receiver cannot dispossess himself of it. Its peculiar character, too, is that no one possesses the less, because every other possesses the whole of it. He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me. That ideas should freely spread from one to another over the globe, for the moral and mutual instruction of man, and improvement of his condition, seems to have been peculiarly and benevolently designed by nature, when she made them, like fire, expansible over all space, without lessening their density in any point, and like the air in which we breathe, move, and have our physical being, incapable of confinement or exclusive appropriation. Inventions then cannot, in nature, be a subject of property.
+
+**--- Thomas Jefferson**</blockquote>
+
+
+
+In this post I will argue for completely repealing the copyright system and
+
+[caption id="attachment_1348" align="alignright" width="399"][![Image via http://opensource.com/law/09/10/copyright-license-choice?sc_cid=70160000000IDmjAAG](http://www.theojones.name/wp-content/uploads/2014/08/4371001458_0b7721a183_o.jpg)](http://www.theojones.name/wp-content/uploads/2014/08/4371001458_0b7721a183_o.jpg) Image via http://opensource.com/law/09/10/copyright-license-choice?sc_cid=70160000000IDmjAAG[/caption]
+
+replacing it with a series of subsidies. My argument will have four parts. 1) I will argue that the copyright system is fundamentally inefficient, 2) that the types of material protected by copyright is fundamentally different from real property, 3) that the copyright system promotes a form of artificial scarcity , 4) that copyright is fundamentally opposed to freedom of speech. I will give more elaboration of these points in future posts (but a overview in this one), I will also give an overview of an alternative to the copyright system in a future post.
+
+A copyright is fundamentally different than a right in real property.It is a right to the dissemination of information. It is a monopoly power over that information. Real property has one key distinguishing factor -- what economists call rivalry. That is, only one person can use a physical item at a time, or at least can't use it without impacting other users. There is a cost, a marginal cost, to each additional user. This cost either comes in the form of a Therefore, there needs be a way to allocate access to this item. An effective way to do so is through property rights. However, the same consideration does not apply to copyrights. One person having an idea, or access to a copy of a piece of information does not stop another from having that information. Therefore there is no inherent need for copyright on property rights grounds. However, this analysis still does still leave the opportunity for an economic justification. There is still a fixed cost to producing a copyrighted work, and someone needs to pay this cost. However, this is a weak argument for copyright. There are many business models that don't depend on copyright, and copyright is a inefficient way to fund artists and authors.
+
+The copyright system is fundamentally inefficient at its main goal of promoting the arts. It grants a monopoly for the distribution of works. But of course, this monopoly comes at a high cost. Copyright makes it such that only one entity can distribute a given work. In a competitive market, prices will tend to fall to something close to the cost that the producer faces. This is the most efficient outcome, any price charged above what it costs to bring something into production is wasteful. It harms consumers by over charging them, and it reduces the net production of economic resources. It is a diversion of resources from a productive use to a non-productive use. However, a monopoly will be able to insist on a price well above actual production. Even worse, the copyright system tends to promote a system that is centralized around a few publishers. This system expands the monopoly from just single works of art. Publishers have a monopoly over the large number of works that exist in their portfolio and are more than willing to use this to abuse consumers and the artists themselves. In fact, the promotion of arts was not the initial goal of copyright law. The British Parliament passed early copyright laws for the explicit goal of centralizing publishing into the hands of a few companies because a centralized press is easier to censor. Copyright is an inefficient system because it produces these monopolies. While it may to some degree encourage the arts, it does so while bringing along a huge deadweight economic loss.
+
+Copyright works from turning abundance into scarcity. Because of the internet, almost anyone anywhere has the potential to share in a work of art instantly at a very small cost.The internet has a great potential to create a cultural abundance. Copyright serves to turn this abundance into scarcity. The economically efficient method of distributing a work is to make sure that it is distributed as widely as possible once the cost of producing it is covered. Copyright law tends to subordinate this goal to profit maximization. A publisher will charge the most profitable price they can, even when this price is well above the actual cost of production. This will reduce the number of people who will have access to the work.
+
+Finally, copyright has strong incompatibilities with free speech. By assigning an exclusive right to a piece of information it prevents others from disseminating that information. Copyright covers a lot more than just the direct form of expression of an idea -- it goes into protecting the ideas themselves. It limits the ability for people to disseminate the ideas contained in that expression, or to modify and recombine the ideas. The expression of an idea is hard to distinguish from the idea itself. Furthermore copyright entails freedom of information. People should have to right to reproduce and receive knowledge in all of its forms. By centralizing control over a given peice of knowledge, the public's right to free information is abridged.
